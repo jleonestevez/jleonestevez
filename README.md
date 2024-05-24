@@ -58,7 +58,7 @@
   <!-- <h2 align="right"></h2> -->
   </br>
   <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jleonestevez&layout=compact" alt="Lenguajes Mas Utilizados">
-  <img align="center" src="https://raw.githubusercontent.com/jleonestevez/github-stat/master/generated/overview.svg#gh-dark-mode-only" alt="Stats Overview">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jleonestevez" alt="Resumen de Estadisticas">
   <h2 align="right"></h2>
 </div>
 
@@ -372,7 +372,7 @@ white D8DEE4
 
 [linkedin-url]: https://linkedin.com/in/jleonestevezromeu
 [leetcode-url]: https://leetcode.com/jleonestevez/
-[email-url]: mailto:jleonestevezromeu@gmail.com
+[email-url]: mailto:josefelixe@gmail.com
 [codepen-url]: https://codepen.io/jleonestevez
 
 </div>
