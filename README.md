@@ -57,7 +57,7 @@
 <div  align="center">
   <!-- <h2 align="right"></h2> -->
   </br>
-  <img align="center"src="[https://raw.githubusercontent.com/jleonestevez/github-stat/master/generated/languages.svg#gh-dark-mode-only](https://github-readme-stats.vercel.app/api/top-langs/?username=jleonestevez&layout=compact)" alt="Lenguajes Mas Utilizados">
+  <img align="center"src="[https://github-readme-stats.vercel.app/api/top-langs/?username=jleonestevez&layout=compact]" alt="Lenguajes Mas Utilizados">
   <img align="center" src="https://raw.githubusercontent.com/jleonestevez/github-stat/master/generated/overview.svg#gh-dark-mode-only" alt="Stats Overview">
   <h2 align="right"></h2>
 </div>
@@ -93,7 +93,7 @@ white D8DEE4
 
 <td>
 <p align="center">
-  <h3>Languages</h3><br>
+  <h3>Lenguajes</h3><br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/jleonestevez/README_icons/main/language_and_tools/square/javascript/javascript.svg" alt="JavaScript" height="42px">
   </a>
