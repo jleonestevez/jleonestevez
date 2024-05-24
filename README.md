@@ -42,14 +42,14 @@
 
 ## &nbsp; Github Stats &nbsp; 📊
 
-<!-- ![Most Used Languages](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg#gh-dark-mode-only)
+<!-- ![Most Used Languages](https://raw.githubusercontent.com/jleonestevez/github-stat/master/generated/languages.svg#gh-dark-mode-only)
 
-![Stats Overview](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/overview.svg#gh-dark-mode-only) -->
+![Stats Overview](https://raw.githubusercontent.com/jleonestevez/github-stat/master/generated/overview.svg#gh-dark-mode-only) -->
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hebelia) -->
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jleonestevez) -->
 
-<!-- ![Most Used Languages](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg)
-![Stats Overview](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/overview.svg) -->
+<!-- ![Most Used Languages](https://raw.githubusercontent.com/jleonestevez/github-stat/master/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/jleonestevez/github-stat/master/generated/overview.svg) -->
 
 </div>
 <div style="display: flex; justify-content: center;">
