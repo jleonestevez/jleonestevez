@@ -30,7 +30,6 @@
 - 📫 &nbsp; Feel free to ping me on [>LinkedIn<](https://www.linkedin.com/in/hebeliaromeu/)
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels and make cover songs
 - 💬 &nbsp; Ask me about anything, I'm happy to help ( •̀ ω •́ )✧
-- 📝 &nbsp; Here you can find my resume in [>English<](https://docs.google.com/document/d/1ZoNmwHIZr5u2SPRzrMdw-JzPjFN92QXL/edit?usp=sharing&ouid=114641724974306952750&rtpof=true&sd=true) or in [>Español<](https://docs.google.com/document/d/1nL5RPkCLo8r0lTudGc2HJPNVn6vCtY1e/edit?usp=sharing&ouid=114641724974306952750&rtpof=true&sd=true)
 
 </div>
 <!--  -->
@@ -58,8 +57,8 @@
 <div  align="center">
   <!-- <h2 align="right"></h2> -->
   </br>
-  <img align="center"src="https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg#gh-dark-mode-only" alt="Most Used Languages">
-  <img align="center" src="https://raw.githubusercontent.com/hebelia/github-stat/master/generated/overview.svg#gh-dark-mode-only" alt="Stats Overview">
+  <img align="center"src="https://raw.githubusercontent.com/jleonestevez/github-stat/master/generated/languages.svg#gh-dark-mode-only" alt="Most Used Languages">
+  <img align="center" src="https://raw.githubusercontent.com/jleonestevez/github-stat/master/generated/overview.svg#gh-dark-mode-only" alt="Stats Overview">
   <h2 align="right"></h2>
 </div>
 
@@ -69,7 +68,7 @@
 
 <!-- (https://img.shields.io/badge/Codepen-9696EA?style=for-the-badge&logo=codepen&logoColor=009188) -->
 
-<a href="https://github.com/hebelia/github-readme-activity-graph"><img alt="hebelia's activity graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hebelia&bg_color=0c0c17&color=009188&line=9696EA&point=009188&hide_border=true" /></a>
+<a href="https://github.com/hebelia/github-readme-activity-graph"><img alt="Grafico de Actividad" src="https://github-readme-activity-graph.vercel.app/graph/?username=jleonestevez&bg_color=0c0c17&color=009188&line=9696EA&point=009188&hide_border=true" /></a>
 
 <!-- colour pallete
 
