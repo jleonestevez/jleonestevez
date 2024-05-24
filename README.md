@@ -4,7 +4,7 @@
 <!-- my colour #009188 -->
 
 <!-- [![SVG](https://readme-typing-svg.demolab.com?font=Consola&size=35&pause=1000&color=49F7DE&width=435&lines=Hi%2C+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Hebe+Lia;%E2%9C%85+Full+Stack+Developer+from+Argentina;Nice+to+meet+you+~)]() -->
-<img style="justify-content: center; padding:20px; " alt="gif" src="https://readme-typing-svg.demolab.com?font=Consola&size=35&pause=1000&color=9696EA&width=700&lines=Hi%2C+I+am+Hebe+Lia++(%E3%80%82%E3%83%BB%E2%80%BF%E3%83%BB)%E3%83%8E;%E2%9C%94+Full+Stack+Software+Dev;Nice+to+meet+you!+%5E%5E" />
+<img style="justify-content: center; padding:20px; " alt="gif" src="https://readme-typing-svg.demolab.com?font=Consola&size=35&pause=1000&color=9696EA&width=700&lines=Hola%2C+Soy+Jose+Estevez++(%E3%80%82%E3%83%BB%E2%80%BF%E3%83%BB)%E3%83%8E;%E2%9C%94+Full+Stack+Software+Dev;Nice+to+meet+you!+%5E%5E" />
 </p>
 </div>
 
@@ -26,8 +26,8 @@
 - 🎯 &nbsp; I’m currently studying on [>freeCodeCamp<](https://www.freecodecamp.org/)
 - 🤝 &nbsp; I love collaborating on projects and learning hands-on
 - 🌱 &nbsp; I’m currently learning Three.js & Next.js, and I am interested in learning Python in the future 🔜
-- 👨🏻‍💻 &nbsp; Most of my projects are on [>GitHub<](https://github.com/hebelia?tab=repositories)
-- 📫 &nbsp; Feel free to ping me on [>LinkedIn<](https://www.linkedin.com/in/hebeliaromeu/)
+- 👨🏻‍💻 &nbsp; Most of my projects are on [>GitHub<](https://github.com/jleonestevez?tab=repositories)
+- 📫 &nbsp; Feel free to ping me on [>LinkedIn<](https://www.linkedin.com/in/jleonestevezromeu/)
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels and make cover songs
 - 💬 &nbsp; Ask me about anything, I'm happy to help ( •̀ ω •́ )✧
 
@@ -68,7 +68,7 @@
 
 <!-- (https://img.shields.io/badge/Codepen-9696EA?style=for-the-badge&logo=codepen&logoColor=009188) -->
 
-<a href="https://github.com/hebelia/github-readme-activity-graph"><img alt="Grafico de Actividad" src="https://github-readme-activity-graph.vercel.app/graph/?username=jleonestevez&bg_color=0c0c17&color=009188&line=9696EA&point=009188&hide_border=true" /></a>
+<a href="https://github.com/jleonestevez/github-readme-activity-graph"><img alt="Grafico de Actividad" src="https://github-readme-activity-graph.vercel.app/graph/?username=jleonestevez&bg_color=0c0c17&color=009188&line=9696EA&point=009188&hide_border=true" /></a>
 
 <!-- colour pallete
 
@@ -95,13 +95,13 @@ white D8DEE4
 <p align="center">
   <h3>Languages</h3><br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/javascript/javascript.svg" alt="JavaScript" height="42px">
+    <img src="https://raw.githubusercontent.com/jleonestevez/README_icons/main/language_and_tools/square/javascript/javascript.svg" alt="JavaScript" height="42px">
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/typescript/typescript.svg" alt="TypeScript" height="42px">
+    <img src="https://raw.githubusercontent.com/jleonestevez/README_icons/main/language_and_tools/square/typescript/typescript.svg" alt="TypeScript" height="42px">
   </a>
   <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/java/java.svg" alt="Java" height="42px">
+    <img src="https://raw.githubusercontent.com/jleonestevez/README_icons/main/language_and_tools/square/java/java.svg" alt="Java" height="42px">
   </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" height="42px">
@@ -119,7 +119,7 @@ white D8DEE4
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize" height="42px">
   </a>
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/node/node.svg" alt="Node.js" height="42px">
+    <img src="https://raw.githubusercontent.com/jleonestevez/README_icons/main/language_and_tools/square/node/node.svg" alt="Node.js" height="42px">
   </a>
   <a href="https://spring.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="42px">
@@ -134,13 +134,13 @@ white D8DEE4
 <p align="center">
   <h3>Front End</h3><br>
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/react/react.svg" alt="React" height="42px">
+    <img src="https://raw.githubusercontent.com/jleonestevez/README_icons/main/language_and_tools/square/react/react.svg" alt="React" height="42px">
   </a>
   <a href="https://redux.js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/redux/redux.svg" alt="Redux" height="42px">
+    <img src="https://raw.githubusercontent.com/jleonestevez/README_icons/main/language_and_tools/square/redux/redux.svg" alt="Redux" height="42px">
   </a>
   <a href="https://angular.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/angular/angular.svg" alt="Angular" height="42px">
+    <img src="https://raw.githubusercontent.com/jleonestevez/README_icons/main/language_and_tools/square/angular/angular.svg" alt="Angular" height="42px">
   </a>
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" height="42px">
@@ -155,10 +155,10 @@ white D8DEE4
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material-UI" height="42px">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/css/css.svg" alt="CSS" height="42px">
+    <img src="https://raw.githubusercontent.com/jleonestevez/README_icons/main/language_and_tools/square/css/css.svg" alt="CSS" height="42px">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/html/html.svg" alt="HTML" height="42px">
+    <img src="https://raw.githubusercontent.com/jleonestevez/README_icons/main/language_and_tools/square/html/html.svg" alt="HTML" height="42px">
   </a>
 </p>
 
@@ -193,10 +193,10 @@ white D8DEE4
 <p align="center">
   <h3>DevOps and Cloud Services</h3><br>
   <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/firebase/firebase.svg" alt="Firebase" height="42px">
+    <img src="https://raw.githubusercontent.com/jleonestevez/README_icons/main/language_and_tools/square/firebase/firebase.svg" alt="Firebase" height="42px">
   </a>
   <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/google-cloud/google-cloud.svg" alt="Google Cloud" height="42px">
+    <img src="https://raw.githubusercontent.com/jleonestevez/README_icons/main/language_and_tools/square/google-cloud/google-cloud.svg" alt="Google Cloud" height="42px">
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="42px">
@@ -210,7 +210,7 @@ white D8DEE4
 <p align="center">
   <h3>Design</h3><br>
   <a href="https://www.figma.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/figma/figma.svg" alt="Figma" height="42px">
+    <img src="https://raw.githubusercontent.com/jleonestevez/README_icons/main/language_and_tools/square/figma/figma.svg" alt="Figma" height="42px">
   </a>
   <a href="https://www.photoshop.com/en" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" height="42px">
@@ -254,10 +254,10 @@ white D8DEE4
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" height="42px">
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="Git" height="42px">
+    <img src="https://raw.githubusercontent.com/jleonestevez/README_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="Git" height="42px">
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://raw.githubusercontent.com/hebelia/README_icons/main/language_and_tools/square/bash/bash.svg" alt="Bash" height="42px">
+    <img src="https://raw.githubusercontent.com/jleonestevez/README_icons/main/language_and_tools/square/bash/bash.svg" alt="Bash" height="42px">
   </a>
 </p>
 
@@ -278,7 +278,7 @@ white D8DEE4
 
 ### ⋄ &nbsp; Web Portfolio
 
-<a href="https://github.com/hebelia/front-end" target="_blank"> 
+<a href="https://github.com/jleonestevez/front-end" target="_blank"> 
 
 
 <div style="display: flex; align-items: center;">
@@ -290,7 +290,7 @@ white D8DEE4
   </div>
   <div style="flex: 1; text-align: center;" height="50px">
 
-<a href="https://github.com/hebelia/front-end">
+<a href="https://github.com/jleonestevez/front-end">
 <img alt="final-project-argprog" src="./assets/android-chrome-192x192.png"  height="60px" align="left">
 </a>
   </div>
@@ -325,7 +325,7 @@ white D8DEE4
   </div>
   <div style="flex: 1; text-align: center;" height="50px">
 
-<a href="https://github.com/hebelia/Integration-Project">
+<a href="https://github.com/jleonestevez/Integration-Project">
 <img alt="integration-project" src="./assets/favicon.ico"  height="60px" align="left">
 </a>
 
@@ -355,8 +355,8 @@ white D8DEE4
 <!-- ## ◇ &nbsp; Connect with me &nbsp; 📬 -->
 
 <!-- <div align="left">
-  <a href="https://linkedin.com/in/hebeliaromeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hebeliaromeu" height="45" width="45" /></a>
-  <a href="mailto:hebeliaromeu@gmail.com"><img align="center" src="/assets/mail.svg" alt="Email Me" height="50" width="45"></a>
+  <a href="https://linkedin.com/in/jleonestevezromeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jleonestevezromeu" height="45" width="45" /></a>
+  <a href="mailto:jleonestevezromeu@gmail.com"><img align="center" src="/assets/mail.svg" alt="Email Me" height="50" width="45"></a>
 
 </div> -->
 <!-- #00AAAA -->
@@ -368,18 +368,18 @@ white D8DEE4
 
 <!-- [![Instagram Badge](https://img.shields.io/badge/leetcode-9696EA?style=for-the-badge&logo=instagram&logoColor=009188)][instagram-url] -->
 
-[![LeetCode user hebelia](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=9696EA&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fhebelia&logo=leetcode&logoColor=009188)](https://leetcode.com/hebelia/)
+[![LeetCode user jleonestevez](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=9696EA&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fjleonestevez&logo=leetcode&logoColor=009188)](https://leetcode.com/jleonestevez/)
 
-[linkedin-url]: https://linkedin.com/in/hebeliaromeu
-[leetcode-url]: https://leetcode.com/hebelia/
-[email-url]: mailto:hebeliaromeu@gmail.com
-[codepen-url]: https://codepen.io/hebelia
+[linkedin-url]: https://linkedin.com/in/jleonestevezromeu
+[leetcode-url]: https://leetcode.com/jleonestevez/
+[email-url]: mailto:jleonestevezromeu@gmail.com
+[codepen-url]: https://codepen.io/jleonestevez
 
 </div>
 
 <!-- TEST -->
 <!-- ## ◇ &nbsp;  GitHub Trophies &nbsp; 🏆
-![](https://github-profile-trophy.vercel.app/?username=hebelia&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=jleonestevez&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 ### ◇ &nbsp;  Random Dev Quote &nbsp; 💭
 -->
