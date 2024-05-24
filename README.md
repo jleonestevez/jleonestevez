@@ -57,7 +57,7 @@
 <div  align="center">
   <!-- <h2 align="right"></h2> -->
   </br>
-  <img align="center"src="https://raw.githubusercontent.com/jleonestevez/github-stat/master/generated/languages.svg#gh-dark-mode-only" alt="Most Used Languages">
+  <img align="center"src="[https://raw.githubusercontent.com/jleonestevez/github-stat/master/generated/languages.svg#gh-dark-mode-only](https://github-readme-stats.vercel.app/api/top-langs/?username=jleonestevez&layout=compact)" alt="Lenguajes Mas Utilizados">
   <img align="center" src="https://raw.githubusercontent.com/jleonestevez/github-stat/master/generated/overview.svg#gh-dark-mode-only" alt="Stats Overview">
   <h2 align="right"></h2>
 </div>
