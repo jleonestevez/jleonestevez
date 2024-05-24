@@ -1,16 +1,16 @@
 ### Hola a todos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Jose Estevez;
 
-* I'm a Software Developer from Chile
-* I love building tech, teaching and learning new technologies
-* I love watching anime & movies
+* Soy Desarrollador de Software de Chile
+* Me encanta construir tecnología, enseñar y aprender nuevas tecnologías.
+* Me encanta ver anime y películas.
 
 
-<a href="https://www.linkedin.com/in/jose-estevez-0b9a4729/">
+<!-- a href="https://www.linkedin.com/in/jose-estevez-0b9a4729/">
   <img align="left" alt="jleonestevez's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="#">
   <img align="left" alt="jleonestevez | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+</a -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jleonestevez)
 
@@ -48,5 +48,4 @@
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jleonestevez&theme=radical" alt="jleonestevez" /></p>
  
  <br />
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jleonestevez&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
