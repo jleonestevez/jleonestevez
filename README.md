@@ -25,7 +25,7 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>
-        <a href="https://www.linkedin.com/in/xx/](https://www.linkedin.com/in/jose-estevez-0b9a4729/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0072b1.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a></a>
+        <a href="https://www.linkedin.com/in/jose-estevez-0b9a4729/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0072b1.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a></a>
             <a href="mailto:josefelixe@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></a>
            </a>
   </samp>
@@ -100,7 +100,7 @@ me.sayHi();
 
 <p align="center">
   <samp>
-       <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jleonestevez&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=codeSTACKr&custom_title=jleonestevez%20Github%20Stats"/>
+       <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jleonestevez&show_icons=true&include_all_commits=true&count_private=true&hide=issues"/>
        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jleonestevez&layout=compact&hide_border=true&theme=codeSTACKr"/>
   </samp>
 </p>
