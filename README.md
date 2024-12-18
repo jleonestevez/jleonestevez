@@ -101,7 +101,7 @@ me.sayHi();
 <p align="center">
   <samp>
        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jleonestevez&show_icons=true&include_all_commits=true&count_private=true&hide=issues"/>
-       <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jleonestevez&layout=compact&hide_border=true&theme=codeSTACKr"/>
+       <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs?username=jleonestevez&layout=compact&hide_border=true&theme=codeSTACKr"/>
   </samp>
 </p>
 
