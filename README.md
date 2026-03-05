@@ -47,7 +47,7 @@ class FullStackDev {
     name: string;
     role: string;
     currentWork: string;
-    currentWorkPlace: string;
+ 
     currentLearning: string[];
     personalWebsite: string;
     interests: string[];
@@ -57,7 +57,7 @@ class FullStackDev {
         this.name = "Felix Hernandez";
         this.role = "Tech Leader, FullStack Developer";
         this.currentWork = "Tech Leader of Fusiona S.A";
-        this.currentWorkPlace = "Fusiona S.A";
+    
         this.currentLearning = ["Unity"];
         this.personalWebsite = "";
         this.interests = ["Dev Mobile", "Game Design", "Cyber Security"];
