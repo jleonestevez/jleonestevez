@@ -56,7 +56,7 @@ class FullStackDev {
     constructor() {
         this.name = "Felix Hernandez";
         this.role = "Tech Leader, FullStack Developer";
-        this.currentWork = "Tech Leader of Fusiona S.A";
+        this.currentWork = "Tech Leader";
     
         this.currentLearning = ["Unity"];
         this.personalWebsite = "";
