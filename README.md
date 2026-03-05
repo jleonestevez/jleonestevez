@@ -54,7 +54,7 @@ class FullStackDev {
     languagesSpoken: string[];
 
     constructor() {
-        this.name = "Jose Estevez";
+        this.name = "Felix Hernandez";
         this.role = "Tech Leader, FullStack Developer";
         this.currentWork = "Tech Leader of Fusiona S.A";
         this.currentWorkPlace = "Fusiona S.A";
