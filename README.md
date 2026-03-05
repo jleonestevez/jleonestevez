@@ -33,7 +33,7 @@
 -->
 <h2></h2>
 <!-- More Information -->
-<h3 align="center">Hi 👋, I'm José Estevez</h3>
+<h3 align="center">Hi 👋, I'm Felix Hernandez</h3>
 <h5 align="center">FullStack Developer | Master in Full Stack Web Development </h5>
 
 <h2></h2>
