@@ -11,10 +11,10 @@
       <b>
         Hello There
       <br>
-        I'm Jose Estevez, FullStack Developer && Tech Leader.
+        I'm Felix hernandez, FullStack Developer && Tech Leader.
       </b>
    <b>
-        ~ José Estevez ~
+        ~  Felix hernandez ~
    </b>
   </samp>
 </p>
@@ -22,7 +22,7 @@
 <p align="right"><strong><samp>」</samp></strong></p>
 
 <h2></h2>
-<!-- Contact Me -->
+<!-- Contact Me 
 <p align="center">
   <samp>
         <a href="https://www.linkedin.com/in/jose-estevez-0b9a4729/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0072b1.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a></a>
@@ -30,7 +30,7 @@
            </a>
   </samp>
 </p>
-
+-->
 <h2></h2>
 <!-- More Information -->
 <h3 align="center">Hi 👋, I'm José Estevez</h3>
